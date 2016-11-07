@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyFrame</string>
+
+    <!--=========================================dialog==========================================-->
+    <string name="dia_prompt_str">提示</string>
+    <string name="dia_msg_str">消息</string>
+    <string name="dia_ok_str">确定</string>
+    <string name="dia_cancel_str">取消</string>
+    <string name="dia_back_str">返回</string>
+    <string name="dia_yes_str">是</string>
+    <string name="dia_no_str">否</string>
+    <string name="dia_no_prompt_str">不再提示</string>
+    <string name="dia_i_know">我知道了</string>
+    <string name="dia_warm_prompt">温馨提示</string>
+    <!--=========================================end=============================================-->
+</resources>
